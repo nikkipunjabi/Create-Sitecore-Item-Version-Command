@@ -49,7 +49,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App_Config\Include\zzz\Sitecore.SharedSource.CreateItemCommand.config">
+    <None Include="App_Config\Include\zzz\Sitecore.SharedSource.SitecoreItemVersioning.config">
       <SubType>Designer</SubType>
     </None>
     <None Include="packages.config" />

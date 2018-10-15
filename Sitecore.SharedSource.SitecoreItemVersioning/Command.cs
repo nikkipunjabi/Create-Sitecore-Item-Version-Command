@@ -1,7 +1,7 @@
 ﻿using Sitecore.Data.Items;
 using Sitecore.Shell.Framework.Commands;
 
-namespace Sitecore.SharedSource.CreateItemCommand
+namespace Sitecore.SharedSource.SitecoreItemVersioning
 {
     public class Command : Sitecore.Shell.Framework.Commands.Command
     {
