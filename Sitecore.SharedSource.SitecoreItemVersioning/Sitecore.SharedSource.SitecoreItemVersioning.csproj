@@ -7,8 +7,8 @@
     <ProjectGuid>{74802E35-6E7A-4359-AAB7-0C5A7CD6B38C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Sitecore.SharedSource.CreateItemCommand</RootNamespace>
-    <AssemblyName>Sitecore.SharedSource.CreateItemCommand</AssemblyName>
+    <RootNamespace>Sitecore.SharedSource.SitecoreItemVersioning</RootNamespace>
+    <AssemblyName>Sitecore.SharedSource.SitecoreItemVersioning</AssemblyName>
     <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
